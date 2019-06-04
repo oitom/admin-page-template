@@ -13,4 +13,4 @@ Pull requests são bem-vindos. Para alterações importantes, por favor, abra um
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Screenshot
-![Image description](https://github.com/wcostale/admin-page-template/blob/master/screenshot-template-admin.png)
+![Image description](https://github.com/wcostale/admin-page-template/blob/master/screenshot-template-admin.jpg)
